@@ -1,0 +1,385 @@
+{
+  "name": "Portugal",
+  "locations": [
+    {
+      "name": "Aveiro",
+      "straight": 366,
+      "paths": [
+        {
+          "name": "Porto",
+          "distance": 68
+        },
+        {
+          "name": "Viseu",
+          "distance": 95
+        },
+        {
+          "name": "Coimbra",
+          "distance": 68
+        },
+        {
+          "name": "Leiria",
+          "distance": 115
+        }
+      ]
+    },
+    {
+      "name": "Porto",
+      "straight": 418,
+      "paths": [
+        {
+          "name": "Aveiro",
+          "distance": 68
+        },
+        {
+          "name": "Braga",
+          "distance": 53
+        },
+        {
+          "name": "Viana do Castelo",
+          "distance": 71
+        },
+        {
+          "name": "Vila Real",
+          "distance": 116
+        },
+        {
+          "name": "Viseu",
+          "distance": 133
+        }
+      ]
+    },
+    {
+      "name": "Coimbra",
+      "straight": 319,
+      "paths": [
+        {
+          "name": "Aveiro",
+          "distance": 68
+        },
+        {
+          "name": "Castelo Branco",
+          "distance": 159
+        },
+        {
+          "name": "Viseu",
+          "distance": 96
+        },
+        {
+          "name": "Leiria",
+          "distance": 67
+        }
+      ]
+    },
+    {
+      "name": "Leiria",
+      "straight": 278,
+      "paths": [
+        {
+          "name": "Aveiro",
+          "distance": 115
+        },
+        {
+          "name": "Coimbra",
+          "distance": 67
+        },
+        {
+          "name": "Lisboa",
+          "distance": 129
+        },
+        {
+          "name": "Santarém",
+          "distance": 70
+        }
+      ]
+    },
+    {
+      "name": "Braga",
+      "straight": 454,
+      "paths": [
+        {
+          "name": "Viana do Castelo",
+          "distance": 48
+        },
+        {
+          "name": "Vila Real",
+          "distance": 106
+        },
+        {
+          "name": "Porto",
+          "distance": 53
+        }
+      ]
+    },
+    {
+      "name": "Viana do Castelo",
+      "straight": 473,
+      "paths": [
+        {
+          "name": "Braga",
+          "distance": 48
+        },
+        {
+          "name": "Porto",
+          "distance": 71
+        }
+      ]
+    },
+    {
+      "name": "Vila Real",
+      "straight": 429,
+      "paths": [
+        {
+          "name": "Braga",
+          "distance": 106
+        },
+        {
+          "name": "Bragança",
+          "distance": 137
+        },
+        {
+          "name": "Guarda",
+          "distance": 157
+        },
+        {
+          "name": "Porto",
+          "distance": 116
+        },
+        {
+          "name": "Viseu",
+          "distance": 110
+        }
+      ]
+    },
+    {
+      "name": "Bragança",
+      "straight": 487,
+      "paths": [
+        {
+          "name": "Vila Real",
+          "distance": 137
+        },
+        {
+          "name": "Guarda",
+          "distance": 202
+        }
+      ]
+    },
+    {
+      "name": "Guarda",
+      "straight": 352,
+      "paths": [
+        {
+          "name": "Bragança",
+          "distance": 202
+        },
+        {
+          "name": "Castelo Branco",
+          "distance": 106
+        },
+        {
+          "name": "Vila Real",
+          "distance": 157
+        },
+        {
+          "name": "Viseu",
+          "distance": 85
+        }
+      ]
+    },
+    {
+      "name": "Beja",
+      "straight": 99,
+      "paths": [
+        {
+          "name": "Évora",
+          "distance": 78
+        },
+        {
+          "name": "Faro",
+          "distance": 152
+        },
+        {
+          "name": "Setúbal",
+          "distance": 142
+        }
+      ]
+    },
+    {
+      "name": "Évora",
+      "straight": 157,
+      "paths": [
+        {
+          "name": "Beja",
+          "distance": 78
+        },
+        {
+          "name": "Castelo Branco",
+          "distance": 203
+        },
+        {
+          "name": "Lisboa",
+          "distance": 150
+        },
+        {
+          "name": "Santarém",
+          "distance": 117
+        },
+        {
+          "name": "Portalegre",
+          "distance": 131
+        },
+        {
+          "name": "Setúbal",
+          "distance": 103
+        }
+      ]
+    },
+    {
+      "name": "Faro",
+      "straight": 0,
+      "paths": [
+        {
+          "name": "Beja",
+          "distance": 152
+        },
+        {
+          "name": "Setúbal",
+          "distance": 249
+        },
+        {
+          "name": "Lisboa",
+          "distance": 299
+        }
+      ]
+    },
+    {
+      "name": "Setúbal",
+      "straight": 168,
+      "paths": [
+        {
+          "name": "Beja",
+          "distance": 142
+        },
+        {
+          "name": "Évora",
+          "distance": 103
+        },
+        {
+          "name": "Faro",
+          "distance": 249
+        },
+        {
+          "name": "Lisboa",
+          "distance": 50
+        }
+      ]
+    },
+    {
+      "name": "Castelo Branco",
+      "straight": 280,
+      "paths": [
+        {
+          "name": "Coimbra",
+          "distance": 159
+        },
+        {
+          "name": "Guarda",
+          "distance": 106
+        },
+        {
+          "name": "Portalegre",
+          "distance": 80
+        },
+        {
+          "name": "Évora",
+          "distance": 203
+        }
+      ]
+    },
+    {
+      "name": "Portalegre",
+      "straight": 228,
+      "paths": [
+        {
+          "name": "Castelo Branco",
+          "distance": 80
+        },
+        {
+          "name": "Évora",
+          "distance": 131
+        }
+      ]
+    },
+    {
+      "name": "Viseu",
+      "straight": 363,
+      "paths": [
+        {
+          "name": "Aveiro",
+          "distance": 95
+        },
+        {
+          "name": "Coimbra",
+          "distance": 96
+        },
+        {
+          "name": "Guarda",
+          "distance": 85
+        },
+        {
+          "name": "Porto",
+          "distance": 133
+        },
+        {
+          "name": "Vila Real",
+          "distance": 110
+        }
+      ]
+    },
+    {
+      "name": "Lisboa",
+      "straight": 195,
+      "paths": [
+        {
+          "name": "Évora",
+          "distance": 150
+        },
+        {
+          "name": "Faro",
+          "distance": 299
+        },
+        {
+          "name": "Leiria",
+          "distance": 129
+        },
+        {
+          "name": "Santarém",
+          "distance": 78
+        },
+        {
+          "name": "Setúbal",
+          "distance": 50
+        }
+      ]
+    },
+    {
+      "name": "Santarém",
+      "straight": 231,
+      "paths": [
+        {
+          "name": "Évora",
+          "distance": 117
+        },
+        {
+          "name": "Leiria",
+          "distance": 70
+        },
+        {
+          "name": "Lisboa",
+          "distance": 78
+        }
+      ]
+    }
+  ]
+}
